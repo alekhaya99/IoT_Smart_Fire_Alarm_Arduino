@@ -6,10 +6,10 @@ DHT dht;
 
 
 
-#define WIFI_SSID "SINGTEL-14C3" 
-#define WIFI_PASSWORD "fahweiquoo"
-#define FIREBASE_HOST "testfirebase-a025c.firebaseio.com"
-#define FIREBASE_AUTH "2RBVeAtAtfBKjOvUmouO7BXPTdKX0ByK92xYWN3S"
+#define WIFI_SSID " 
+#define WIFI_PASSWORD ""
+#define FIREBASE_HOST ""
+#define FIREBASE_AUTH ""
 #define LED 8
 
 
