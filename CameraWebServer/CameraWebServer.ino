@@ -15,8 +15,8 @@
 
 #include "camera_pins.h"
 
-const char* ssid = "Xperia XA1 Ultra_2634";
-const char* password = "fb9085061cda";
+const char* ssid = "";
+const char* password = "";
 
 void startCameraServer();
 
