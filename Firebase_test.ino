@@ -24,10 +24,10 @@ Adafruit_ST7735 tft = Adafruit_ST7735(TFT_CS, TFT_DC, TFT_MOSI, TFT_SCLK, TFT_RS
 
 float p = 3.1415926;
 
-#define WIFI_SSID "Xperia XA1 Ultra_2634" 
-#define WIFI_PASSWORD "fb9085061cda"
-#define FIREBASE_HOST "testfirebase-a025c.firebaseio.com"
-#define FIREBASE_AUTH "2RBVeAtAtfBKjOvUmouO7BXPTdKX0ByK92xYWN3S"
+#define WIFI_SSID "" 
+#define WIFI_PASSWORD ""
+#define FIREBASE_HOST ""
+#define FIREBASE_AUTH ""
 
 
 
